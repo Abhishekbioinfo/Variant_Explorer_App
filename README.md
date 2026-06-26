@@ -4,7 +4,7 @@
 ![Shiny](https://img.shields.io/badge/Shiny-Blue?style=for-the-badge)
 ![Data.Table](https://img.shields.io/badge/Data.Table-Fast-success?style=for-the-badge)
 
-A highly optimized R Shiny web application designed for clinical bioinformaticians and genomic researchers. This dashboard allows users to upload primary variant files (`.csv`) and instantly cross-reference their findings against massive clinical databases (like the 5GB+ COSMIC Actionability dataset) to identify associated drugs, disease pathways, and clinical trials.
+A highly optimized R Shiny web application designed for clinical bioinformaticians and genomic researchers. This dashboard allows users to upload primary variant files (`.csv`) and instantly cross-reference their findings against massive clinical databases to identify associated drugs, and clinical trials.
 
 ## ✨ Key Features & Architecture
 
