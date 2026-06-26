@@ -72,5 +72,5 @@ ScreenShot
 
 <img width="1917" height="1040" alt="Screenshot 2026-06-26 180648" src="https://github.com/Abhishekbioinfo/Variant_Explorer_App/blob/main/Screenshot%202026-06-26%20180648.png" />
 
-<img width="1915" height="1107" alt="Screenshot 2026-06-26 180728" src="https://github.com/user-attachments/assets/08073f0a-f95f-46f5-b3f2-ee0f1feb5b6b" />
+<img width="1915" height="1107" alt="Screenshot 2026-06-26 180728" src="[https://github.com/user-attachments/assets/08073f0a-f95f-46f5-b3f2-ee0f1feb5b6b](https://github.com/Abhishekbioinfo/Variant_Explorer_App/blob/main/Screenshot%202026-06-26%20180728.png)" />
 
