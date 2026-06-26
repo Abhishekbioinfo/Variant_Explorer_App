@@ -63,12 +63,11 @@ Plaintext
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
+```
+
 📝 License
 This project is licensed under the MIT License.
 
-
-
-ScreenShot
 
 ## Dashboard
 <img width="1917" height="1040" alt="Screenshot 2026-06-26 180648" src="https://github.com/user-attachments/assets/87da4b13-ffb7-4bff-b15a-971b780cf624" />
